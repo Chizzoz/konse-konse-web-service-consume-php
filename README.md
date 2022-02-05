@@ -26,7 +26,7 @@ It is assumed you have an existing mobile app, web app or business plan that req
 You will have to set `$cgrate_username` and `$cgrate_password` with your valid credentials.
 
 ## cGrate Function
-This code provides a function called `cgrate` which will process a payment for your app. The cgrate function accepts the following parameters:
+This code provides a function called `cgrate` which will process a payment for your app. The `cgrate` function accepts the following parameters:
 - $process (Specify `disburse` to send money to a mobile number. By default, if this is `null` or any other value, money will be collected from provided mobile number)
 - $amount (This can be an `int` or `decimal`)
 - $mobile_number (This is a 12-digit Zambian Mobile Number starting with country code `2609xxxxxxxx`
