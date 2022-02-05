@@ -1,0 +1,14 @@
+{
+    "name": "chizzoz/konse-konse-web-service-consume-php",
+    "description": "Consume cGrate Zambia's 543 Konse Konse Web Service API Using PHP. 543 Konse Konse provide a service called Merchant Payments, allowing merhants to accept mobile money and bank payments using a Web Service API.",
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chinyanta Mwenya",
+            "email": "chizzo84@gmail.com"
+        }
+    ]
+}
